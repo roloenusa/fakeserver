@@ -1,0 +1,13 @@
+{
+  "moderation": {
+    "success": {
+      "response": true
+    },
+    "failure": {
+      "response": false
+    }
+  },
+  "profile": {
+    "name": "typicode"
+  }
+}
