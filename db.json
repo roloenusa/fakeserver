@@ -1,11 +1,7 @@
 {
   "moderation": {
-    "success": {
-      "response": true
-    },
-    "failure": {
+
       "response": false
-    }
   },
   "success": {
     "response": true
