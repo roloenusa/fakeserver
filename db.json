@@ -7,6 +7,12 @@
       "response": false
     }
   },
+  "success": {
+    "response": true
+  },
+  "failure": {
+    "response": false
+  },
   "profile": {
     "name": "typicode"
   }
